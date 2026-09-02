@@ -1,7 +1,7 @@
-YENİ PARTİ YENİŞEHİR — Executive Site Package
+YENİ PARTİ YENİŞEHİR — MASTER FINAL
 
 GitHub deponuzun kök dizinine bu klasördeki TÜM dosyaları yükleyin.
 Mevcut index.html dosyasının üzerine yeni index.html geçmelidir.
-GitHub Pages ayarlarını değiştirmeniz gerekmez.
+GitHub Pages ayarlarını değiştirmeyin.
 
-Paket: index.html, 404.html, manifest.webmanifest, sw.js, robots.txt, sitemap.xml, logo.png, favicon-192.png, favicon-512.png, social-card.png
+ÖNEMLİ: erdil-baydemir.jpeg dosyası kullanıcının orijinal fotoğrafının byte-for-byte kopyasıdır; görsel üzerinde işlem yapılmamıştır.
